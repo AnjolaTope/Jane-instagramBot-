@@ -1,0 +1,15 @@
+
+Project Discirption:
+We will use python to automate instagram functions
+
+PROCESSES:
+STEP 1: Create a function to log in
+STEP 2: Create a function to follow a user
+STEP 3: Create a function to unfollow a user
+
+
+
+TOOLS USED:
+Selenuim
+
+
