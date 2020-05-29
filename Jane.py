@@ -125,7 +125,7 @@ class Bot:
 
 # if this file is called, imported or open, the code defined here will be what will be run
 if __name__ == '__main__':
-      ig_bot = Bot('anjie_babz_77' , "Anjiebabz743")
+      ig_bot = Bot('put username here ' , "put password here ")
       ig_bot.nav_user('garyvee')
      # ig_bot.follow_user('brfootball')
       ig_bot.unfollow_user('brfootball')
