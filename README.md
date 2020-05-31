@@ -11,3 +11,7 @@ STEP 3: Create a function to unfollow a user <br/>
 
 TOOLS USED: <br/>
 Selenuim 
+
+
+Procedure
+<img src= "https://i.imgur.com/H3rKYN0.gif" width="1000" height="600" />  
